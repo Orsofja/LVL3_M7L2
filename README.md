@@ -28,6 +28,3 @@ python calculator_program.py
 Результат: 7.0
 ```
 
-## Автор
-
-Kodland
